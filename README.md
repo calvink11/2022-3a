@@ -7,4 +7,4 @@
 
 # 😄 ☀️ 
 
-[nkust]<https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png>
+![nkust](nkust.png "nkust")
